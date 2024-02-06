@@ -1,0 +1,4 @@
+*.config.ts
+/cypress/
+globals.d.ts
+*.test.tsx
