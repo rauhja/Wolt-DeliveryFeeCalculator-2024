@@ -2,7 +2,9 @@
 
 ## Description
 
-This is my front-end solution for the preliminary assignment for the [Wolt summer 2024](https://github.com/woltapp/engineering-internship-2024) engineering internship application. The app is built by using Vite, React and TypeScript. For unit and E2E testing I used Jest and Cypress.
+This is my front-end solution for the preliminary assignment for the [Wolt summer 2024](https://github.com/woltapp/engineering-internship-2024) engineering internship application. The goal was to create a web app that calculates the delivery fee when a customer is ready with their order. The delivery fee depends on the price of the order, the number of items, the time of the day and the delivery distance.
+
+The app is built by using Vite, React and TypeScript. For unit and E2E testing I used Jest and Cypress.
 
 ## Installation
 
