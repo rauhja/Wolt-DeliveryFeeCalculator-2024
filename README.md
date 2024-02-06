@@ -2,7 +2,7 @@
 
 ## Description
 
-This is my front-end solution for the preliminary assignment for the Wolt summer 2024 engineering internship. The app is built by using Vite, React and TypeScript. For unit and E2E testing I used Jest and Cypress.
+This is my front-end solution for the preliminary assignment for the [Wolt summer 2024](https://github.com/woltapp/engineering-internship-2024) engineering internship application. The app is built by using Vite, React and TypeScript. For unit and E2E testing I used Jest and Cypress.
 
 ## Installation
 
